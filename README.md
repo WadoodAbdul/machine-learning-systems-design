@@ -1,5 +1,8 @@
 # Machine Learning Systems Design
 
+**Excerside problems to solve : [27 Questions](https://huyenchip.com/machine-learning-systems-design/exercises.html#exercises-rWl8SQW)
+All answers will be added to the answers folder of this repo
+
 **Read this booklet [here](https://huyenchip.com/machine-learning-systems-design/toc.html).**
 
 This booklet covers four main steps of designing a machine learning system:
